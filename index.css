@@ -1,0 +1,37 @@
+#container{
+  margin: auto;
+  margin-top: 10rem;
+  width: 50%;
+  height: 20rem;
+  padding: 12px;
+  background: rgba(65, 72, 87, 0.5);
+  font-size: large;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#output{
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  padding: 14px;
+}
+#btn-check{
+  background-color: #008CBA;
+  border: none;
+  color: white;
+  padding: 4px 6px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 2px 2px;
+  cursor: pointer;
+}
+
+body {
+  background-image: url("birthday.svg");
+  background-color: #cad3fd;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  font-family: Arial, Helvetica, sans-serif;
+ }
